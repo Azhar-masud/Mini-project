@@ -1,0 +1,22 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.contant
+{
+	min-height: 550px;
+}
+
+.footer-area
+{
+	background-color: #2881b5;
+	text-align: center;
+	padding: 20px 0px;
+	color: #fff;
+	margin-top: 20px;
+}
+.footer-area p
+{
+	margin: 0;
+}
